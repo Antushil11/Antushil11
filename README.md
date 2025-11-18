@@ -3,7 +3,7 @@
 
 
 
-- About me **Hi, I’m Antu Shil, a passionate MERN Stack Web Developer with a strong focus on building modern, responsive, and user-friendly web applications. I love turning ideas into real, functional products using MongoDB, Express.js, React, and Node.js. I enjoy solving problems, writing clean code, and continuously learning new technologies to improve my craft. Whether it’s creating full-stack applications, working with APIs, or optimizing user experiences, I aim to deliver efficient, scalable, and high-quality solutions.**
+**Hi, I’m Antu Shil, a passionate MERN Stack Web Developer with a strong focus on building modern, responsive, and user-friendly web applications. I love turning ideas into real, functional products using MongoDB, Express.js, React, and Node.js. I enjoy solving problems, writing clean code, and continuously learning new technologies to improve my craft. Whether it’s creating full-stack applications, working with APIs, or optimizing user experiences, I aim to deliver efficient, scalable, and high-quality solutions.**
 
 - 📫 How to reach me **anturoy084@gmail.com**
 
