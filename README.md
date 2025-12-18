@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'am Antu Shil</h1>
+<h1 align="center">Hi 👋, I'm Antu Shil</h1>
 
 ###
 
@@ -60,6 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+
 ###
 
 <div align="center">
@@ -70,6 +71,7 @@
 ###
 
 <div align="left">
+  <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/antu-shil/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -95,10 +97,14 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animatio
 
+
+
+
+  
+
+###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antushil11&label=Profile%20views&color=0e75b6&style=flat" alt="antushil11" /> </p>
+
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Antushil11.Antushil11&"  />
-</div>
 
-###
