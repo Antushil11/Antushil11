@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Passionate MERN Stack Web Developer from Bangladesh</p>
+<p align="left">A Passionate Full-Stack Web Developer from Bangladesh</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ MERN stack developer in progress  <br>📚 Learning MongoDB, JavaScript, Express.js, React.js, Node.js  <br>🎯 Goal: Build fast, secure, and scalable web apps<br>🎲 Fun fact: trust console.log more than tutorials</p>
+<p align="left">✨ Full-Stack Web Developer in progress  <br>📚 Learning MongoDB, JavaScript, Express.js, React.js, Node.js  <br>🎯 Goal: Build fast, secure, and scalable web apps<br>🎲 Fun fact: trust console.log more than tutorials</p>
 
 ###
 
