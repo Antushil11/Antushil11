@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 Currently working on ull-Stack Web Projects  <br>🌱 Learning Advanced Next.js, Backend Architecture & Clean Code <br>💡 Interested in Web Performance, UI/UX & Scalable Systems<br>🎯 Goal: Become a Professional Software Engineer<br>⚡ Fun fact: I trust the console more than tutorials 😄</p>
+<p align="left">🔭 Currently working on Full-Stack Web Projects <br>🌱 Learning Advanced Next.js, Backend Architecture & Clean Code <br>💡 Interested in Web Performance, UI/UX & Scalable Systems<br>🎯 Goal: Become a Professional Software Engineer<br>⚡ Fun fact: I trust the console more than tutorials 😄</p>
 
 ###
 
