@@ -35,7 +35,7 @@ Goal     : Professional Software Engineer 🎯
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
 **Frontend**
 
