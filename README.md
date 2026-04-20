@@ -93,14 +93,14 @@ Goal     : Professional Software Engineer 🎯
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antushil11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antushil11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Antushil11&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
