@@ -131,7 +131,7 @@ Goal     : Professional Software Engineer 🎯
 <a href="https://discordapp.com/users/1214593868868223028" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="https://www.youtube.com/@Antu-Roy-Official" target="_blank">
+<a href="https://www.youtube.com/@AntuShil-A" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 <a href="https://www.facebook.com/antu.roy.395891" target="_blank">
